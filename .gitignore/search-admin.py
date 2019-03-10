@@ -3,23 +3,7 @@ import os
 from datetime import datetime
 from sys import exit
 
-logo='''
-         _________________ROTA__________________
-          ROTA=f413efee4a810029b41cbf6d72f91962
-          by Raouf Maklouf
-                                 
-                     ____  ____  _________ 
-                    / __ \/ __ \/_  __/   |
-                   / /_/ / / / / / / / /| |
-                  / _, _/ /_/ / / / / ___ |
-                 /_/ |_|\____/ /_/ /_/  |_|
-                                     
-                                 
-                                                        
-          Free Tool For Find Admin Panel Page 
-      
-         ____________hapy hacking__-_-__________
-'''
+logo=''' ___hapy hacking__-_-___'''
 print(logo)
 print(' ')
 print(' ')
